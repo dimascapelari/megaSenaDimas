@@ -5,6 +5,10 @@
     font-family: 'Poppins', sans-serif;
 }
 
+body {
+    margin-top: 50px;
+}
+
 .header {
     display: flex;
     justify-content: center;
@@ -65,7 +69,7 @@
     .header img {
         width: 90%;
         height: auto;
-        margin-top: 50px;
+        margin-top: 20px;
     }
 
 
