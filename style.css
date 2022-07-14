@@ -63,10 +63,11 @@
 @media (max-width: 768px) {
 
     .header img {
-        width: 100%;
+        width: 90%;
         height: auto;
         margin-top: 50px;
     }
+
 
     .resultado {
         margin-bottom: 50px;
