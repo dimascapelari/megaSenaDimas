@@ -22,13 +22,3 @@ function print() {
 btn.addEventListener('click', print)
 
 
-/*
-function print() {
-    resultado1.innerHTML = `${sorte(1, 10)}`
-    resultado2.innerHTML = `Sorteado: ${sorte(11, 20)}`
-    resultado3.innerHTML = `Sorteado: ${sorte(21, 30)}`
-    resultado4.innerHTML = `Sorteado: ${sorte(31, 40)}`
-    resultado5.innerHTML = `Sorteado: ${sorte(41, 50)}`
-    resultado6.innerHTML = `Sorteado: ${sorte(51, 60)}`
-}
-*/
